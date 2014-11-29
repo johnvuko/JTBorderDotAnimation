@@ -86,6 +86,16 @@ Example:
 
 `clipsToBounds` property of the animatedView is set to `NO` at the beginning of the animation.
 
+You can also change the speed of the animation without stopping it with:
+
+```objective-c
+    CALayer *layer = self.animatedView.layer;
+    
+    layer.timeOffset = [layer convertTime:CACurrentMediaTime() fromLayer:nil];
+    layer.beginTime = CACurrentMediaTime();
+    layer.speed = 2.;
+```
+
 ## Requirements
 
 - iOS 7 or higher
