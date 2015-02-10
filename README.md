@@ -1,6 +1,6 @@
-JTBorderDotAnimation
-====================
+# JTBorderDotAnimation
 
+[![CI Status](http://img.shields.io/travis/jonathantribouharet/JTBorderDotAnimation.svg)](https://travis-ci.org/jonathantribouharet/JTBorderDotAnimation)
 ![Version](https://img.shields.io/cocoapods/v/JTBorderDotAnimation.svg)
 ![License](https://img.shields.io/cocoapods/l/JTBorderDotAnimation.svg)
 ![Platform](https://img.shields.io/cocoapods/p/JTBorderDotAnimation.svg)
