@@ -112,3 +112,7 @@ You can also change the speed of the animation without stopping it with:
 ## License
 
 JTBorderDotAnimation is released under the MIT license. See the LICENSE file for more info.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jonathantribouharet/jtborderdotanimation/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
